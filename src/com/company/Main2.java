@@ -10,7 +10,7 @@ public class Main2 {
 
 
     public void test(){
-        System.out.println("这是测试2");
+        System.out.println("这是测试2   d d d d d d sdfasdf asdf ");
     }
 
 }
